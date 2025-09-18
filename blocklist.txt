@@ -1,8 +1,7 @@
 # -------------------------------
 # Safe Test Domains
 # -------------------------------
-||example.com^
-||ads-blocker.com^
+ads-blocker.com
 coolmathgames.com
 
 # -------------------------------
