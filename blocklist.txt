@@ -2,7 +2,7 @@
 # Safe Test Domains
 # -------------------------------
 # 0.0.0.0 coolmathgames.com
-|| coolmathgames.com
+|| coolmathgames.com^
 
 # -------------------------------
 # Ads
