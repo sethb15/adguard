@@ -1,1 +1,6 @@
+# AdGuard Blocklist
+
+# Test Domains
 ||coolmathgames.com^
+
+# Ad/Malcicious Domains
