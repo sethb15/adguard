@@ -1,1 +1,2 @@
-animeschedule.net
+# AdGuard Allowlist
+@@||animeschedule.net^
