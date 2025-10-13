@@ -4,3 +4,4 @@
 
 # Exceptions
 @@||animeschedule.net^
+@@||ad.doubleclick.net^
