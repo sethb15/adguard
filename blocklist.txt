@@ -4,6 +4,7 @@
 
 # Test Domains
 ||coolmathgames.com^
+||sports.yahoo.com^
 
 # Ad/Malcicious Domains
 ||nchacservice.com^
