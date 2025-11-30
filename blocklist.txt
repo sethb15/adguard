@@ -4,7 +4,7 @@
 
 # Test Domains
 ||coolmathgames.com^
-||sports.yahoo.com^
+||sports.yahoo.com
 ||miniclip.com^
 ||chess.com^
 
