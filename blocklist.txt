@@ -1,6 +1,8 @@
 # AdGuard Blocklist
 
 # Link for filters: https://raw.githubusercontent.com/sethb15/adguard/refs/heads/main/blocklist.txt
+# Updated: {{ date }}
+
 
 # Test Domains
 ||coolmathgames.com^
