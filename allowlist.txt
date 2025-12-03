@@ -5,3 +5,4 @@
 # Exceptions
 @@||animeschedule.net^
 @@||ad.doubleclick.net^
+@@||ipinfo.io^
