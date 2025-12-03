@@ -1,0 +1,53 @@
+name: Update Timestamps for Allowlist and Blocklist
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Insert timestamp and last editor
+        run: |
+          # Set your filenames here
+          FILES=("allowlist.txt" "blocklist.txt")
+
+          # Gather data
+          NOW=$(date -u +"%Y-%m-%d %H:%M UTC")
+          LAST_USER="${GITHUB_ACTOR}"
+
+          for FILE in "${FILES[@]}"; do
+            if [ ! -f "$FILE" ]; then
+              echo "Skipping missing file: $FILE"
+              continue
+            fi
+
+            # Prepare new header lines
+            HEADER1="! Last updated: $NOW"
+            HEADER2="! Last edited by: $LAST_USER"
+
+            # If header already exists, replace it
+            if head -n 2 "$FILE" | grep -q "^! Last updated:"; then
+              sed -i "1s|.*|$HEADER1|" "$FILE"
+              sed -i "2s|.*|$HEADER2|" "$FILE"
+            else
+              # Otherwise insert new header at the top
+              sed -i "1i $HEADER2" "$FILE"
+              sed -i "1i $HEADER1" "$FILE"
+            fi
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add .
+          git commit -m "Auto-update timestamps & editor info" || echo "No changes to commit"
+          git push
+          
