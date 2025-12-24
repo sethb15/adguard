@@ -7,3 +7,4 @@
 @@||ad.doubleclick.net^
 @@||ipinfo.io^
 @@||venmo.com^
+@@||challenges.cloudflare.com^
