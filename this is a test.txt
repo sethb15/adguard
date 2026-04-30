@@ -1,0 +1,15 @@
+# AdGuard Allowlist
+
+# Link for filters: https://raw.githubusercontent.com/sethb15/adguard/refs/heads/main/allowlist.txt
+
+# Exceptions
+@@||animeschedule.net^
+@@||ad.doubleclick.net^
+@@||ipinfo.io^
+@@||venmo.com^
+@@||9animetv.to^
+@@||soapboxderby.org^
+
+
+test test test
+test test test
