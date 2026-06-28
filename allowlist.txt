@@ -11,3 +11,5 @@
 @@||soapboxderby.org^
 @@||ourlads.com^
 @@||microcenter-cdn.bloomreach.co^
+@@||midco.net^
+@@||midco.com^
