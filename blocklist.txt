@@ -7,5 +7,10 @@
 ||coolmathgames.com^
 ||miniclip.com^
 
-# Ad/Malcicious Domains
+# Ad/Malicious Domains
 ||nchacservice.com^
+
+# LG TV Telemetry/Ads
+||rdx2.nextlgsdp.com^
+||ibs.nextlgsdp.com^
+||ibsstat.nextlgsdp.com^
