@@ -14,3 +14,4 @@
 ||rdx2.nextlgsdp.com^
 ||ibs.nextlgsdp.com^
 ||ibsstat.nextlgsdp.com^
+||testing.com^ # Added via Discord by seth on 2026-10-08
