@@ -14,4 +14,3 @@
 
 # Ad/Malicious Domains
 ||nchacservice.com^
-||testingdns.com^ # Added via Discord by seth on 2026-10-08
