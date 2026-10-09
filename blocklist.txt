@@ -14,3 +14,4 @@
 
 # Ad/Malicious Domains
 ||nchacservice.com^
+||superbadsite.com^ # Added via Discord by seth on 2026-10-09T01:40:19.056000+00:00
