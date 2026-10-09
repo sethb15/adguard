@@ -18,3 +18,4 @@
 @@||us.nextlgsdp.com^ # Added via Discord by seth on 2026-10-08
 @@||testingdns.com^ # Added via Discord by seth on 2026-10-09T01:39:49.031000+00:00
 @@||espn.com^ # Added via Discord by seth on 2026-10-09T01:40:52.531000+00:00
+@@||dg.srv.nintendo.net^ # Added via Discord by seth on 2026-10-09T16:33:29.638000+00:00
