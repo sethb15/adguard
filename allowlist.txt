@@ -17,3 +17,4 @@
 @@||dksb.sng.link^
 @@||us.nextlgsdp.com^ # Added via Discord by seth on 2026-10-08
 @@||testingdns.com^ # Added via Discord by seth on 2026-10-09T01:39:49.031000+00:00
+@@||espn.com^ # Added via Discord by seth on 2026-10-09T01:40:52.531000+00:00
