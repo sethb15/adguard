@@ -20,3 +20,4 @@
 @@||minerva.devices.a2z.com^ # Added via Discord by seth on 2026-10-21T17:56:02.641000+00:00
 @@||a2z.com^ # Added via Discord by seth on 2026-10-21T18:29:37.654000+00:00
 @@||app-measurement.com^ # Added via Discord by seth on 2026-11-01T15:53:29.324000+00:00
+@@||measurement.com^ # Added via Discord by seth on 2026-11-01T16:00:54.056000+00:00
